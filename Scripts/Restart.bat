@@ -1,0 +1,1 @@
+Shutdown /g /t 0
