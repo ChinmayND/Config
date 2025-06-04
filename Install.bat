@@ -68,5 +68,5 @@ for /L %%i in (1,1,%total%) do (
 
 echo All installations attempted.
  
- shutdown -r
+ shutdown -r -t 2
 exit
