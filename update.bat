@@ -17,30 +17,31 @@ set "app9=glzr-io.zebar"
 set "app8=glzr-io.glazewm"
 set "app10=Fastfetch-cli.Fastfetch"
 set "app11=RaspberryPiFoundation.RaspberryPiImager"
+set "app12=Gyan.FFmpeg"
 ::Level-2===============================
-set "app12=ArduinoSA.IDE.stable"
-set "app13=AnyAssociation.Anytype"
-set "app14=KiCad.KiCad"
-set "app15=logseq.logseq"
-set "app16=Oracle.VirtualBox"
-set "APP17=VideoLAN.VLC"
-set "app18=Valve.Steam"
+set "app116=ArduinoSA.IDE.stable"
+set "app17=AnyAssociation.Anytype"
+set "app18=KiCad.KiCad"
+set "app19=logseq.logseq"
+set "app20=Oracle.VirtualBox"
+set "APP21=VideoLAN.VLC"
+set "app22=Valve.Steam"
 ::Level-3===============================
-set "app19=Audacity.Audacity"
-set "app20=KDE.Krita"
-set "app21=BlenderFoundation.Blender"
-set "app22=Inkscape.inksacpe"
+set "app26=Audacity.Audacity"
+set "app27=KDE.Krita"
+set "app28=BlenderFoundation.Blender"
+set "app29=Inkscape.inksacpe"
 ::Level-4===============================
-set "app23=KDE.KDEConnect"
-set "app24=OBSProject.OBSStudio"
-set "app25=VB-Audio.Voicemeeter.Potato"
+set "app31=KDE.KDEConnect"
+set "app32=OBSProject.OBSStudio"
+set "app33=VB-Audio.Voicemeeter.Potato"
 ::Level-9===============================
-set "app26=9NQDW009T0T5" ::Omen gaming hub
-set "app27=XP9B0BH6T8Z7KZ"  ::voicemod
-set "app28=9NKSQGP7F2NH" ::whatsapp
+set "app36=9NQDW009T0T5" ::Omen gaming hub
+set "app37=XP9B0BH6T8Z7KZ"  ::voicemod
+set "app38=9NKSQGP7F2NH" ::whatsapp
 
 :: Total number of apps to install
-set "total=28"
+set "total=40"
 
 :: ==========================================
 :: Check if winget is installed
