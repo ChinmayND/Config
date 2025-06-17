@@ -40,7 +40,7 @@ set "app33=VB-Audio.Voicemeeter.Potato"
 ::Level-9===============================
 set "app36=9NQDW009T0T5" ::Omen gaming hub
 set "app37=XP9B0BH6T8Z7KZ"  ::voicemod
-set "app38=9NKSQGP7F2NH" ::whatsapp
+::set "app38=9NKSQGP7F2NH" ::whatsapp
 
 :: Total number of apps to install
 set "total=40"
@@ -71,5 +71,8 @@ for /L %%i in (1,1,%total%) do (
 
 echo All installations attempted.
  
- shutdown /r /t 2
+ shutdown /r /t 7
+ {
+          msgbox "I Hate GUI" ,""
+         } 
 exit
