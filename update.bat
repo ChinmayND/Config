@@ -20,7 +20,7 @@ set "app11=Genymobile.scrcpy"
 set "app12=RaspberryPiFoundation.RaspberryPiImager"
 set "app13=Gyan.FFmpeg"
 set "app14=Microsoft.WSL"
-
+set "app15=RamenSoftware.Windhawk"
 ::Level-2===============================
 set "app16=ArduinoSA.IDE.stable"
 set "app17=AnyAssociation.Anytype"
@@ -74,7 +74,5 @@ for /L %%i in (1,1,%total%) do (
 echo All installations attempted.
  
  shutdown /r /t 7
- {
-          msgbox "I Hate GUI" ,""
-         } 
+
 exit
