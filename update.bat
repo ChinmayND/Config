@@ -30,6 +30,7 @@ set "app20=logseq.logseq"
 set "app21=Oracle.VirtualBox"
 set "APP22=VideoLAN.VLC"
 set "app23=Valve.Steam"
+set "set24=FilesCommunity.Files"
 ::Level-3===============================
 set "app26=Audacity.Audacity"
 set "app27=KDE.Krita"
