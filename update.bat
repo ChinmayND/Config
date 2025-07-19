@@ -31,6 +31,7 @@ set "app21=Oracle.VirtualBox"
 set "APP22=VideoLAN.VLC"
 set "app23=Valve.Steam"
 set "set24=FilesCommunity.Files"
+set "set25=OpenWhisperSystems.Signal"
 ::Level-3===============================
 set "app26=Audacity.Audacity"
 set "app27=KDE.Krita"
