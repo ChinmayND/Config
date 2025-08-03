@@ -37,6 +37,7 @@ set "app26=Audacity.Audacity"
 set "app27=KDE.Krita"
 set "app28=BlenderFoundation.Blender"
 set "app29=Inkscape.inksacpe"
+set "app30=Syncthing.Syncthing"
 ::Level-4===============================
 set "app31=KDE.KDEConnect"
 set "app32=OBSProject.OBSStudio"
