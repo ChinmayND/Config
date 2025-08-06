@@ -1,0 +1,35 @@
+microsoft.appinstaller
+microsoft.powershell
+AutoHotkey.AutoHotkey
+sxyazi.yazi
+valinet.ExplorerPatcher
+zyedidia.micro
+Microsoft.PowerToys
+glzr-io.zebar
+glzr-io.glazewm
+Fastfetch-cli.Fastfetch
+Genymobile.scrcpy
+RaspberryPiFoundation.RaspberryPiImager
+Gyan.FFmpeg
+Microsoft.WSL
+RamenSoftware.Windhawk
+ArduinoSA.IDE.stable
+AnyAssociation.Anytype
+KiCad.KiCad
+GodotEngine.GodotEngine
+logseq.logseq
+Oracle.VirtualBox
+VideoLAN.VLC
+Valve.Steam
+FilesCommunity.Files
+OpenWhisperSystems.Signal
+Audacity.Audacity
+KDE.Krita
+BlenderFoundation.Blender
+Inkscape.inksacpe
+Syncthing.Syncthing
+KDE.KDEConnect
+OBSProject.OBSStudio
+VB-Audio.Voicemeeter.Potato
+9NQDW009T0T5  ::Omen gaming hub
+XP9B0BH6T8Z7KZ  ::voicemod
